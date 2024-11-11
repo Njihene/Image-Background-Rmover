@@ -13,6 +13,6 @@ Here’s an example showing the difference between the original image and the on
 
 ## How to Use:  
 1- Clone this repository.  
-2- Install the required dependencies: streamlit, Pillow, rembg  
+2- Install the required dependencies in the [requirements.txt](requirements.txt).  
 3- Run the app: streamlit run bg_removal.py  
 4- Upload your image and download the result.
