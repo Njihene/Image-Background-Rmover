@@ -12,11 +12,11 @@ Here’s an example showing the difference between the original image and the on
 ![pic_before_after](https://github.com/user-attachments/assets/791e5d75-2a65-490a-97db-a040514d7d42)  
 
 ## How to Use:  
-1- Clone this repository.
+1- Clone this repository.  
 2- Install the required dependencies:  
   - streamlit  
   - Pillow  
-  - rembg
-3- Run the app:
+  - rembg  
+3- Run the app:  
 streamlit run bg_removal.py
 4- Upload your image and download the result.
