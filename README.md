@@ -1,4 +1,4 @@
-# Image-Background-Rmover
+🖼️ # Image-Background-Rmover 
 This app allows you to easily remove backgrounds from your images.  
 Upload any image (e.g., PNG, JPG, JPEG, or JFIF), and the app will automatically process it, giving you a clean image with the background removed.  
 
@@ -14,7 +14,9 @@ Here’s an example showing the difference between the original image and the on
 ## How to Use:  
 1- Clone this repository.
 2- Install the required dependencies:  
-pip install -r requirements.txt  
-3- Run the app:  
-streamlit run app.py  
+  - streamlit  
+  - Pillow  
+  - rembg
+3- Run the app:
+streamlit run bg_removal.py
 4- Upload your image and download the result.
