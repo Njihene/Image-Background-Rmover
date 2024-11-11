@@ -8,10 +8,7 @@ View the original image alongside the processed one and download the result.
 Before and After:
 Here’s an example showing the difference between the original image and the one with the background removed:
 
-Original Image 📸
-![pic](https://github.com/user-attachments/assets/6f3c5485-3630-42e9-9f04-ebbe4cc0f4b7)
-Fixed Image 🔧
-![pic_f](https://github.com/user-attachments/assets/175d3101-cf38-4684-addf-decb46053cb1)
+![pic_before_after](https://github.com/user-attachments/assets/791e5d75-2a65-490a-97db-a040514d7d42)
 
 How to Use:
 Clone this repository.
