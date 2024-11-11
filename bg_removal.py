@@ -35,9 +35,9 @@ if my_upload is not None:
     fix_image(upload=my_upload)
 else:
     col1.write("Original Image :camera:")
-    image = Image.open("PY_bg_removal\pic.jpg")
+    image = Image.open("PY_bg_removal\pic.jpg") # put an image before removing bg
     col1.image(image)
     
     col2.write("Fixed Image :wrench:")
-    image1 = Image.open("PY_bg_removal\pic_f.png")
+    image1 = Image.open("PY_bg_removal\pic_f.png") # put an image after removing bg
     col2.image(image1)
