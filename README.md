@@ -1,4 +1,4 @@
-🖼️ # Image-Background-Rmover 
+# Image-Background-Rmover 🖼️
 This app allows you to easily remove backgrounds from your images.  
 Upload any image (e.g., PNG, JPG, JPEG, or JFIF), and the app will automatically process it, giving you a clean image with the background removed.  
 
